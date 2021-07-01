@@ -1,0 +1,13 @@
+name: LaCiteDesNeiges
+author: ZoxyModz
+version: 1.0
+main: fr.zoxymodz.LaCitedesNeiges.Main
+commands:
+  cite:
+    description:
+  report:
+    description:
+  vanish:
+    description:
+  fly:
+    description:
